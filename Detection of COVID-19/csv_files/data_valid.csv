@@ -1,0 +1,1311 @@
+Unnamed: 0,image_path,label
+11813,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_13.png,bacterial pneumonia
+9247,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_128.png,COVID
+10128,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_192.png,COVID
+2310,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181739_trimmed_crop/frame_80.png,healthy
+6786,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_374.png,COVID
+7840,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_340.png,COVID
+6896,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_48.png,COVID
+5100,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_93.png,healthy
+12951,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid2/frame_78.png,bacterial pneumonia
+7201,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid10/frame_33.png,COVID
+653,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_297.png,healthy
+12679,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_005/frame_32.png,bacterial pneumonia
+4924,./processed_data/pocus_videos_to_images/convex/healthy/Reg_liftl_pneucase3_clip1/frame_5.png,healthy
+1921,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_92.png,healthy
+6334,./processed_data/pocus_videos_to_images/convex/COVID/Cov-Atlas-suspectedCovid/frame_22.png,COVID
+1350,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_45.png,bacterial pneumonia
+9245,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_126.png,COVID
+651,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_295.png,healthy
+8485,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_307.png,COVID
+7586,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_86.png,COVID
+9034,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_51.png,COVID
+2673,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid2/frame_75.png,healthy
+4257,./processed_data/pocus_videos_to_images/convex/healthy/Reg-NormalLungs/frame_75.png,healthy
+9733,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_280.png,COVID
+4122,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_001/frame_32.png,healthy
+2448,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_30.png,healthy
+8524,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_346.png,COVID
+10388,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid4/frame_51.png,bacterial pneumonia
+6860,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_12.png,COVID
+6057,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_144.png,COVID
+11524,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_222.png,bacterial pneumonia
+2236,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181739_trimmed_crop/frame_6.png,healthy
+4004,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-3/frame_1.png,healthy
+10091,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_155.png,COVID
+428,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_72.png,healthy
+4731,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_212.png,healthy
+11280,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid2/frame_69.png,bacterial pneumonia
+1623,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid1/frame_75.png,healthy
+4791,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_272.png,healthy
+12605,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_48.png,bacterial pneumonia
+8521,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_343.png,COVID
+7370,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_61.png,COVID
+740,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_384.png,healthy
+12205,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid8/frame_34.png,bacterial pneumonia
+2899,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid2/frame_7.png,healthy
+673,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_317.png,healthy
+3422,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_8.png,healthy
+5151,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_144.png,healthy
+511,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_155.png,healthy
+12106,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid1/frame_27.png,bacterial pneumonia
+9441,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_180.png,COVID
+6062,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_149.png,COVID
+12200,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid8/frame_29.png,bacterial pneumonia
+9731,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_278.png,COVID
+1355,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_50.png,bacterial pneumonia
+1643,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid1/frame_4.png,healthy
+9178,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_59.png,COVID
+1989,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_160.png,healthy
+8343,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_165.png,COVID
+1457,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_liftl_H1N1_case2_clip2/frame_1.png,bacterial pneumonia
+10735,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid1/frame_7.png,bacterial pneumonia
+11815,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_15.png,bacterial pneumonia
+3128,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_144.png,healthy
+12293,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_31.png,bacterial pneumonia
+5998,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_85.png,COVID
+8317,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_139.png,COVID
+6920,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_72.png,COVID
+10432,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Basal-pneumonia-RUQ_crop/frame_4.png,bacterial pneumonia
+3344,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_360.png,healthy
+7354,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_45.png,COVID
+7289,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid10/frame_121.png,COVID
+8621,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_40.png,COVID
+3288,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_304.png,healthy
+1592,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid1/frame_44.png,healthy
+10825,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid2/frame_5.png,bacterial pneumonia
+6438,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_26.png,COVID
+8206,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_28.png,COVID
+1142,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural2/frame_63.png,bacterial pneumonia
+1035,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_107.png,bacterial pneumonia
+2746,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_54.png,healthy
+9743,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_290.png,COVID
+10844,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid2/frame_24.png,bacterial pneumonia
+12902,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid2/frame_29.png,bacterial pneumonia
+10056,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_120.png,COVID
+7445,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_136.png,COVID
+11509,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_207.png,bacterial pneumonia
+1347,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_42.png,bacterial pneumonia
+12315,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_53.png,bacterial pneumonia
+8814,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_233.png,COVID
+5270,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid5/frame_61.png,healthy
+9313,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_52.png,COVID
+11500,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_198.png,bacterial pneumonia
+4672,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_153.png,healthy
+1964,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_135.png,healthy
+9307,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_46.png,COVID
+10401,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid4/frame_64.png,bacterial pneumonia
+6101,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_188.png,COVID
+8739,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_158.png,COVID
+10788,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid1/frame_60.png,bacterial pneumonia
+6187,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_274.png,COVID
+3702,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_196.png,healthy
+4870,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid3/frame_42.png,healthy
+8233,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_55.png,COVID
+4843,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid3/frame_15.png,healthy
+5553,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_92.png,COVID
+9684,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_231.png,COVID
+9001,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_18.png,COVID
+12748,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_from_article_rippey/frame_10.png,bacterial pneumonia
+1430,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_125.png,bacterial pneumonia
+2973,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid2/frame_81.png,healthy
+1470,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_liftl_H1N1_case2_clip2/frame_14.png,bacterial pneumonia
+11814,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_14.png,bacterial pneumonia
+10569,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_001/frame_24.png,bacterial pneumonia
+4094,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_001/frame_4.png,healthy
+3233,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_249.png,healthy
+3184,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_200.png,healthy
+8776,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_195.png,COVID
+2576,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_158.png,healthy
+9253,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_134.png,COVID
+12907,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid2/frame_34.png,bacterial pneumonia
+3468,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_54.png,healthy
+7048,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_likebutterfly_mov5/frame_18.png,COVID
+6075,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_162.png,COVID
+8869,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_288.png,COVID
+12027,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_basalpneumonia_liftle_case1/frame_17.png,bacterial pneumonia
+6259,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_346.png,COVID
+7406,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_97.png,COVID
+6883,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_35.png,COVID
+8912,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_331.png,COVID
+9754,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_301.png,COVID
+6300,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_387.png,COVID
+8730,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_149.png,COVID
+10872,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid2/frame_52.png,bacterial pneumonia
+6739,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_327.png,COVID
+3651,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_145.png,healthy
+9955,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_19.png,COVID
+5321,./processed_data/pocus_videos_to_images/convex/viral pneumonia/Vir_liftl_H1N1_case2_clip1/frame_19.png,viral pneumonia
+4513,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_200.png,healthy
+10619,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_001/frame_74.png,bacterial pneumonia
+10330,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_394.png,COVID
+1683,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid1/frame_44.png,healthy
+6826,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_414.png,COVID
+483,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_127.png,healthy
+7665,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_165.png,COVID
+6654,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_242.png,COVID
+6865,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_17.png,COVID
+12855,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_003/frame_75.png,bacterial pneumonia
+12462,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid4/frame_15.png,bacterial pneumonia
+965,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_37.png,bacterial pneumonia
+8106,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image1/frame_41.png,COVID
+5278,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid5/frame_69.png,healthy
+10035,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_99.png,COVID
+5665,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_33.png,COVID
+5123,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_116.png,healthy
+4808,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_289.png,healthy
+2290,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181739_trimmed_crop/frame_60.png,healthy
+8806,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_225.png,COVID
+1665,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid1/frame_26.png,healthy
+11342,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_40.png,bacterial pneumonia
+7325,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_16.png,COVID
+11874,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_74.png,bacterial pneumonia
+6500,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_88.png,COVID
+9548,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_95.png,COVID
+7302,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid10/frame_134.png,COVID
+10639,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid2/frame_3.png,bacterial pneumonia
+19,./processed_data//pocus_images//convex/bacterial pneumonia/Pneu_Avi_Small-effusion-pleural-line.jpg,bacterial pneumonia
+10940,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid3/frame_28.png,bacterial pneumonia
+6458,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_46.png,COVID
+11552,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_002/frame_27.png,bacterial pneumonia
+12705,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_005/frame_58.png,bacterial pneumonia
+3231,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_247.png,healthy
+473,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_117.png,healthy
+12922,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid2/frame_49.png,bacterial pneumonia
+4412,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_99.png,healthy
+11600,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_002/frame_75.png,bacterial pneumonia
+11334,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_32.png,bacterial pneumonia
+8900,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_319.png,COVID
+1606,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid1/frame_58.png,healthy
+13048,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_82.png,bacterial pneumonia
+4789,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_270.png,healthy
+11242,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid2/frame_31.png,bacterial pneumonia
+6107,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_194.png,COVID
+4093,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_001/frame_3.png,healthy
+8161,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image1/frame_96.png,COVID
+11834,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_34.png,bacterial pneumonia
+11924,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_7.png,bacterial pneumonia
+2094,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_66.png,healthy
+6568,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_156.png,COVID
+2802,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_110.png,healthy
+7978,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_73.png,COVID
+9373,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_112.png,COVID
+1041,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_113.png,bacterial pneumonia
+4560,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_41.png,healthy
+6693,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_281.png,COVID
+12609,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_52.png,bacterial pneumonia
+4101,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_001/frame_11.png,healthy
+6874,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_26.png,COVID
+1807,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid2/frame_76.png,healthy
+10530,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid1/frame_75.png,bacterial pneumonia
+8678,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_97.png,COVID
+11833,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_33.png,bacterial pneumonia
+10974,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid3/frame_62.png,bacterial pneumonia
+7810,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_310.png,COVID
+1493,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding/frame_1.png,healthy
+12733,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_005/frame_86.png,bacterial pneumonia
+12896,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid2/frame_23.png,bacterial pneumonia
+12621,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_64.png,bacterial pneumonia
+8374,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_196.png,COVID
+6536,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_124.png,COVID
+2039,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_11.png,healthy
+11283,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid2/frame_72.png,bacterial pneumonia
+2546,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_128.png,healthy
+1791,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid2/frame_60.png,healthy
+11979,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_62.png,bacterial pneumonia
+5025,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_18.png,healthy
+8091,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image1/frame_26.png,COVID
+1621,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid1/frame_73.png,healthy
+6128,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_215.png,COVID
+9266,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_5.png,COVID
+5385,./processed_data/pocus_videos_to_images/convex/viral pneumonia/Vir_whitelung_h1n1/frame_47.png,viral pneumonia
+11851,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_51.png,bacterial pneumonia
+9059,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_76.png,COVID
+1091,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural2/frame_12.png,bacterial pneumonia
+2998,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_14.png,healthy
+8046,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_141.png,COVID
+11920,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_3.png,bacterial pneumonia
+5970,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_57.png,COVID
+582,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_226.png,healthy
+10906,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid2/frame_86.png,bacterial pneumonia
+1213,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_59.png,bacterial pneumonia
+9269,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_8.png,COVID
+3297,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_313.png,healthy
+9928,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_166.png,COVID
+12113,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid1/frame_34.png,bacterial pneumonia
+7824,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_324.png,COVID
+3492,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_78.png,healthy
+11749,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid7/frame_40.png,bacterial pneumonia
+11830,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_30.png,bacterial pneumonia
+12643,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_86.png,bacterial pneumonia
+11129,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid1/frame_34.png,bacterial pneumonia
+5639,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_7.png,COVID
+2876,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_184.png,healthy
+6532,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_120.png,COVID
+3021,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_37.png,healthy
+5461,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_0.png,COVID
+4860,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid3/frame_32.png,healthy
+6386,./processed_data/pocus_videos_to_images/convex/COVID/Cov-Atlas-suspectedCovid/frame_74.png,COVID
+457,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_101.png,healthy
+4299,./processed_data/pocus_videos_to_images/convex/healthy/Reg-NormalLungs/frame_117.png,healthy
+5835,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_59.png,COVID
+2943,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid2/frame_51.png,healthy
+9734,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_281.png,COVID
+11110,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid1/frame_15.png,bacterial pneumonia
+8598,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_17.png,COVID
+12172,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid8/frame_1.png,bacterial pneumonia
+8587,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_6.png,COVID
+9436,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_175.png,COVID
+11668,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid1/frame_50.png,bacterial pneumonia
+12319,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_57.png,bacterial pneumonia
+2948,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid2/frame_56.png,healthy
+6672,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_260.png,COVID
+811,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_455.png,healthy
+8539,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_361.png,COVID
+6066,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_153.png,COVID
+2471,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_53.png,healthy
+8370,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_192.png,COVID
+12390,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_1009_vid1/frame_36.png,bacterial pneumonia
+3519,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_13.png,healthy
+2308,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181739_trimmed_crop/frame_78.png,healthy
+12648,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_005/frame_1.png,bacterial pneumonia
+7492,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_183.png,COVID
+12601,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_44.png,bacterial pneumonia
+6440,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_28.png,COVID
+10399,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid4/frame_62.png,bacterial pneumonia
+3616,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_110.png,healthy
+1732,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid2/frame_1.png,healthy
+1219,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_65.png,bacterial pneumonia
+12330,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_68.png,bacterial pneumonia
+1718,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid1/frame_79.png,healthy
+379,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_23.png,healthy
+1346,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_41.png,bacterial pneumonia
+2167,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_139.png,healthy
+11685,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid1/frame_67.png,bacterial pneumonia
+7337,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_28.png,COVID
+613,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_257.png,healthy
+6625,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_213.png,COVID
+10936,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid3/frame_24.png,bacterial pneumonia
+535,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_179.png,healthy
+12329,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_67.png,bacterial pneumonia
+5035,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_28.png,healthy
+12101,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid1/frame_22.png,bacterial pneumonia
+3328,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_344.png,healthy
+68,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_36.png,healthy
+1107,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural2/frame_28.png,bacterial pneumonia
+12984,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_18.png,bacterial pneumonia
+265,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_96.png,healthy
+3413,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-2/frame_55.png,healthy
+3889,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_181.png,healthy
+10180,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_244.png,COVID
+10334,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_398.png,COVID
+2813,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_121.png,healthy
+5771,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_139.png,COVID
+884,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural/frame_33.png,bacterial pneumonia
+3822,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_114.png,healthy
+9606,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_153.png,COVID
+8538,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_360.png,COVID
+2357,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_003/frame_23.png,healthy
+11754,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid7/frame_45.png,bacterial pneumonia
+5932,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_19.png,COVID
+5152,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_145.png,healthy
+7744,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_244.png,COVID
+11871,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_71.png,bacterial pneumonia
+4189,./processed_data/pocus_videos_to_images/convex/healthy/Reg-NormalLungs/frame_7.png,healthy
+10804,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid1/frame_76.png,bacterial pneumonia
+7506,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_6.png,COVID
+5761,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_129.png,COVID
+2616,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid2/frame_18.png,healthy
+2913,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid2/frame_21.png,healthy
+7841,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_341.png,COVID
+8750,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_169.png,COVID
+3146,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_162.png,healthy
+6041,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_128.png,COVID
+7458,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_149.png,COVID
+4890,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid3/frame_62.png,healthy
+3780,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_72.png,healthy
+12245,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid8/frame_74.png,bacterial pneumonia
+7933,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_28.png,COVID
+9543,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_90.png,COVID
+6926,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_78.png,COVID
+5601,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_140.png,COVID
+6620,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_208.png,COVID
+10539,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid1/frame_84.png,bacterial pneumonia
+3351,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_367.png,healthy
+360,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_4.png,healthy
+9969,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_33.png,COVID
+8158,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image1/frame_93.png,COVID
+4783,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_264.png,healthy
+11069,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_006/frame_66.png,bacterial pneumonia
+11238,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid2/frame_27.png,bacterial pneumonia
+2554,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_136.png,healthy
+2144,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_116.png,healthy
+11966,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_49.png,bacterial pneumonia
+7472,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_163.png,COVID
+10464,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid1/frame_9.png,bacterial pneumonia
+5564,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_103.png,COVID
+2766,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_74.png,healthy
+5357,./processed_data/pocus_videos_to_images/convex/viral pneumonia/Vir_whitelung_h1n1/frame_19.png,viral pneumonia
+9384,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_123.png,COVID
+7316,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_7.png,COVID
+1288,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_134.png,bacterial pneumonia
+6347,./processed_data/pocus_videos_to_images/convex/COVID/Cov-Atlas-suspectedCovid/frame_35.png,COVID
+6571,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_159.png,COVID
+5494,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_33.png,COVID
+11722,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid7/frame_13.png,bacterial pneumonia
+248,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_79.png,healthy
+2375,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_003/frame_41.png,healthy
+6208,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_295.png,COVID
+1463,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_liftl_H1N1_case2_clip2/frame_7.png,bacterial pneumonia
+3857,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_149.png,healthy
+8459,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_281.png,COVID
+1281,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_127.png,bacterial pneumonia
+5617,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_156.png,COVID
+10773,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid1/frame_45.png,bacterial pneumonia
+11937,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_20.png,bacterial pneumonia
+9338,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_77.png,COVID
+7157,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_likebutterfly_mov5/frame_127.png,COVID
+6664,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_252.png,COVID
+8514,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_336.png,COVID
+12041,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_basalpneumonia_liftle_case1/frame_31.png,bacterial pneumonia
+8141,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image1/frame_76.png,COVID
+8048,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_143.png,COVID
+11618,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid1/frame_0.png,bacterial pneumonia
+1421,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_116.png,bacterial pneumonia
+3540,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_34.png,healthy
+4900,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid3/frame_72.png,healthy
+230,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_61.png,healthy
+1954,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_125.png,healthy
+9835,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_73.png,COVID
+8635,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_54.png,COVID
+8773,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_192.png,COVID
+11810,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_10.png,bacterial pneumonia
+7953,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_48.png,COVID
+9150,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_31.png,COVID
+9730,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_277.png,COVID
+8055,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_150.png,COVID
+9015,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_32.png,COVID
+2614,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid2/frame_16.png,healthy
+11614,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_002/frame_89.png,bacterial pneumonia
+1160,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_6.png,bacterial pneumonia
+11554,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_002/frame_29.png,bacterial pneumonia
+7073,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_likebutterfly_mov5/frame_43.png,COVID
+4914,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid3/frame_86.png,healthy
+772,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_416.png,healthy
+1402,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_97.png,bacterial pneumonia
+8409,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_231.png,COVID
+11541,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_002/frame_16.png,bacterial pneumonia
+5963,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_50.png,COVID
+9119,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_0.png,COVID
+3721,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_13.png,healthy
+12793,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_003/frame_13.png,bacterial pneumonia
+6422,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_10.png,COVID
+3315,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_331.png,healthy
+6266,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_353.png,COVID
+3958,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid6/frame_48.png,healthy
+7807,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_307.png,COVID
+7309,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_0.png,COVID
+5886,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_110.png,COVID
+6323,./processed_data/pocus_videos_to_images/convex/COVID/Cov-Atlas-suspectedCovid/frame_11.png,COVID
+2483,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_65.png,healthy
+4985,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_002/frame_42.png,healthy
+5405,./processed_data/pocus_videos_to_images/convex/viral pneumonia/Vir_whitelung_h1n1/frame_67.png,viral pneumonia
+8868,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_287.png,COVID
+6110,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_197.png,COVID
+9396,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_135.png,COVID
+1006,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_78.png,bacterial pneumonia
+434,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_78.png,healthy
+3082,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_98.png,healthy
+10996,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid3/frame_84.png,bacterial pneumonia
+12503,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid4/frame_56.png,bacterial pneumonia
+12157,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid1/frame_78.png,bacterial pneumonia
+7948,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_43.png,COVID
+1327,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_22.png,bacterial pneumonia
+10837,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid2/frame_17.png,bacterial pneumonia
+2154,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_126.png,healthy
+4756,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_237.png,healthy
+1237,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_83.png,bacterial pneumonia
+6734,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_322.png,COVID
+1175,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_21.png,bacterial pneumonia
+7061,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_likebutterfly_mov5/frame_31.png,COVID
+8522,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_344.png,COVID
+5841,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_65.png,COVID
+7007,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_159.png,COVID
+12260,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid8/frame_89.png,bacterial pneumonia
+10223,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_287.png,COVID
+9783,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_21.png,COVID
+8425,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_247.png,COVID
+4031,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-3/frame_28.png,healthy
+1433,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_128.png,bacterial pneumonia
+7453,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_144.png,COVID
+9451,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_190.png,COVID
+12012,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_basalpneumonia_liftle_case1/frame_2.png,bacterial pneumonia
+6301,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_388.png,COVID
+2102,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_74.png,healthy
+10655,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid2/frame_19.png,bacterial pneumonia
+8449,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_271.png,COVID
+1483,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_liftl_H1N1_case2_clip2/frame_27.png,bacterial pneumonia
+4414,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_101.png,healthy
+9564,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_111.png,COVID
+4394,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_81.png,healthy
+11865,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_65.png,bacterial pneumonia
+10613,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_001/frame_68.png,bacterial pneumonia
+10020,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_84.png,COVID
+2901,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid2/frame_9.png,healthy
+3522,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_16.png,healthy
+5120,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_113.png,healthy
+9935,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_173.png,COVID
+9712,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_259.png,COVID
+10244,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_308.png,COVID
+12997,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_31.png,bacterial pneumonia
+9254,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_135.png,COVID
+7606,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_106.png,COVID
+4338,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_25.png,healthy
+6025,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_112.png,COVID
+8147,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image1/frame_82.png,COVID
+2183,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_155.png,healthy
+1277,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_123.png,bacterial pneumonia
+396,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_40.png,healthy
+173,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_4.png,healthy
+12441,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_1009_vid1/frame_87.png,bacterial pneumonia
+10306,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_370.png,COVID
+6756,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_344.png,COVID
+9626,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_173.png,COVID
+930,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_2.png,bacterial pneumonia
+4770,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_251.png,healthy
+1047,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_119.png,bacterial pneumonia
+9848,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_86.png,COVID
+10256,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_320.png,COVID
+5817,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_41.png,COVID
+11847,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_47.png,bacterial pneumonia
+9898,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_136.png,COVID
+9006,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_23.png,COVID
+10146,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_210.png,COVID
+6648,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_236.png,COVID
+883,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural/frame_32.png,bacterial pneumonia
+2150,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_122.png,healthy
+8952,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_371.png,COVID
+8949,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_368.png,COVID
+4110,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_001/frame_20.png,healthy
+12778,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_from_article_rippey/frame_40.png,bacterial pneumonia
+10667,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid2/frame_31.png,bacterial pneumonia
+2323,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181739_trimmed_crop/frame_93.png,healthy
+8290,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_112.png,COVID
+7467,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_158.png,COVID
+554,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_198.png,healthy
+12291,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_29.png,bacterial pneumonia
+2807,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_115.png,healthy
+85,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_53.png,healthy
+9931,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_169.png,COVID
+6388,./processed_data/pocus_videos_to_images/convex/COVID/Cov-Atlas-suspectedCovid/frame_76.png,COVID
+2215,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_187.png,healthy
+9054,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_71.png,COVID
+4604,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_85.png,healthy
+8935,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_354.png,COVID
+8753,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_172.png,COVID
+1883,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_54.png,healthy
+3160,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_176.png,healthy
+1368,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_63.png,bacterial pneumonia
+11691,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid1/frame_73.png,bacterial pneumonia
+12127,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid1/frame_48.png,bacterial pneumonia
+3207,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_223.png,healthy
+3652,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_146.png,healthy
+3647,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_141.png,healthy
+1634,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid1/frame_86.png,healthy
+2009,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_180.png,healthy
+9414,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_153.png,COVID
+1413,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_108.png,bacterial pneumonia
+756,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_400.png,healthy
+9406,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_145.png,COVID
+12316,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_54.png,bacterial pneumonia
+5040,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_33.png,healthy
+3614,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_108.png,healthy
+10915,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid3/frame_3.png,bacterial pneumonia
+9238,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_119.png,COVID
+1236,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_82.png,bacterial pneumonia
+3938,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid6/frame_28.png,healthy
+150,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_118.png,healthy
+8470,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_292.png,COVID
+3975,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid6/frame_65.png,healthy
+8748,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_167.png,COVID
+3437,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_23.png,healthy
+1489,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_liftl_H1N1_case2_clip2/frame_33.png,bacterial pneumonia
+11165,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid1/frame_70.png,bacterial pneumonia
+5719,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_87.png,COVID
+1385,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_80.png,bacterial pneumonia
+9909,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_147.png,COVID
+11747,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid7/frame_38.png,bacterial pneumonia
+2495,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_77.png,healthy
+9653,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_200.png,COVID
+6862,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_14.png,COVID
+5090,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_83.png,healthy
+2608,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid2/frame_10.png,healthy
+11052,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_006/frame_49.png,bacterial pneumonia
+3984,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid6/frame_74.png,healthy
+7677,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_177.png,COVID
+10126,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_190.png,COVID
+11932,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_15.png,bacterial pneumonia
+35,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_3.png,healthy
+11908,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_liftl_pneu_case3_clip3/frame_16.png,bacterial pneumonia
+2210,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_182.png,healthy
+1285,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_131.png,bacterial pneumonia
+3478,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_64.png,healthy
+6173,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_260.png,COVID
+900,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural/frame_49.png,bacterial pneumonia
+12572,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_15.png,bacterial pneumonia
+7442,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_133.png,COVID
+10166,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_230.png,COVID
+8618,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_37.png,COVID
+11712,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid7/frame_3.png,bacterial pneumonia
+7334,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_25.png,COVID
+8970,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_389.png,COVID
+1586,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid1/frame_38.png,healthy
+700,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_344.png,healthy
+7488,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_179.png,COVID
+3617,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_111.png,healthy
+5643,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_11.png,COVID
+12341,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_79.png,bacterial pneumonia
+6086,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_173.png,COVID
+3804,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_96.png,healthy
+4105,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_001/frame_15.png,healthy
+2021,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_192.png,healthy
+10632,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_001/frame_87.png,bacterial pneumonia
+11183,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid1/frame_88.png,bacterial pneumonia
+4069,./processed_data/pocus_videos_to_images/convex/healthy/Reg_liftl_case3_clip2/frame_11.png,healthy
+3595,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_89.png,healthy
+2798,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_106.png,healthy
+1662,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid1/frame_23.png,healthy
+5843,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_67.png,COVID
+1393,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_88.png,bacterial pneumonia
+11075,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_006/frame_72.png,bacterial pneumonia
+9549,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_96.png,COVID
+2704,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_12.png,healthy
+12939,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid2/frame_66.png,bacterial pneumonia
+6029,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_116.png,COVID
+7726,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_226.png,COVID
+9306,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_45.png,COVID
+819,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_463.png,healthy
+6224,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_311.png,COVID
+5023,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_16.png,healthy
+1082,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural2/frame_3.png,bacterial pneumonia
+3963,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid6/frame_53.png,healthy
+8285,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_107.png,COVID
+5030,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_23.png,healthy
+6459,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_47.png,COVID
+2328,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181739_trimmed_crop/frame_98.png,healthy
+7932,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_27.png,COVID
+6271,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_358.png,COVID
+3169,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_185.png,healthy
+6020,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_107.png,COVID
+5945,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_32.png,COVID
+4519,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_0.png,healthy
+10496,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid1/frame_41.png,bacterial pneumonia
+862,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural/frame_11.png,bacterial pneumonia
+9257,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_138.png,COVID
+4043,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-3/frame_40.png,healthy
+9572,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_119.png,COVID
+7116,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_likebutterfly_mov5/frame_86.png,COVID
+5909,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_133.png,COVID
+5034,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_27.png,healthy
+7759,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_259.png,COVID
+3474,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_60.png,healthy
+12028,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_basalpneumonia_liftle_case1/frame_18.png,bacterial pneumonia
+12072,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Pneumonia-LITFL-Ultrasound_crop/frame_20.png,bacterial pneumonia
+2662,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid2/frame_64.png,healthy
+744,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_388.png,healthy
+7209,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid10/frame_41.png,COVID
+7903,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_403.png,COVID
+4685,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_166.png,healthy
+10549,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_001/frame_4.png,bacterial pneumonia
+10688,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid2/frame_52.png,bacterial pneumonia
+6606,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_194.png,COVID
+9674,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_221.png,COVID
+9291,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_30.png,COVID
+4708,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_189.png,healthy
+1941,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_112.png,healthy
+3751,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_43.png,healthy
+4747,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_228.png,healthy
+8627,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_46.png,COVID
+7631,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_131.png,COVID
+7910,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_5.png,COVID
+3877,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_169.png,healthy
+8861,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_280.png,COVID
+898,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural/frame_47.png,bacterial pneumonia
+10003,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_67.png,COVID
+7952,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_47.png,COVID
+318,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_149.png,healthy
+2287,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181739_trimmed_crop/frame_57.png,healthy
+5805,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_29.png,COVID
+12835,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_003/frame_55.png,bacterial pneumonia
+9889,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_127.png,COVID
+6595,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_183.png,COVID
+12216,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid8/frame_45.png,bacterial pneumonia
+12116,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid1/frame_37.png,bacterial pneumonia
+10275,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_339.png,COVID
+7853,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_353.png,COVID
+330,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_161.png,healthy
+8051,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_146.png,COVID
+12584,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_27.png,bacterial pneumonia
+1166,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_12.png,bacterial pneumonia
+5354,./processed_data/pocus_videos_to_images/convex/viral pneumonia/Vir_whitelung_h1n1/frame_16.png,viral pneumonia
+10490,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid1/frame_35.png,bacterial pneumonia
+9447,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_186.png,COVID
+9460,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_7.png,COVID
+8600,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_19.png,COVID
+1434,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_129.png,bacterial pneumonia
+7784,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_284.png,COVID
+7645,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_145.png,COVID
+10575,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_001/frame_30.png,bacterial pneumonia
+8593,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_12.png,COVID
+6720,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_308.png,COVID
+8928,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_347.png,COVID
+3418,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_4.png,healthy
+5294,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid5/frame_85.png,healthy
+5751,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_119.png,COVID
+9426,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_165.png,COVID
+9490,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_37.png,COVID
+7149,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_likebutterfly_mov5/frame_119.png,COVID
+12597,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_40.png,bacterial pneumonia
+12035,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_basalpneumonia_liftle_case1/frame_25.png,bacterial pneumonia
+6939,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_91.png,COVID
+5106,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_99.png,healthy
+4950,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_002/frame_7.png,healthy
+7111,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_likebutterfly_mov5/frame_81.png,COVID
+12174,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid8/frame_3.png,bacterial pneumonia
+4617,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_98.png,healthy
+3827,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_119.png,healthy
+4489,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_176.png,healthy
+3574,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_68.png,healthy
+1039,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_111.png,bacterial pneumonia
+6282,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_369.png,COVID
+4320,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_7.png,healthy
+13098,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_liftl_pneu_case3_clip4/frame_39.png,bacterial pneumonia
+10288,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_352.png,COVID
+11984,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_67.png,bacterial pneumonia
+4347,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_34.png,healthy
+12568,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_11.png,bacterial pneumonia
+2400,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_003/frame_66.png,healthy
+10707,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid2/frame_71.png,bacterial pneumonia
+10967,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid3/frame_55.png,bacterial pneumonia
+7466,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_157.png,COVID
+1713,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid1/frame_74.png,healthy
+13036,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_70.png,bacterial pneumonia
+9824,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_62.png,COVID
+12750,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_from_article_rippey/frame_12.png,bacterial pneumonia
+5821,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_45.png,COVID
+10815,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid1/frame_87.png,bacterial pneumonia
+2412,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_003/frame_78.png,healthy
+3111,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_127.png,healthy
+4467,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_154.png,healthy
+9230,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_111.png,COVID
+9520,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_67.png,COVID
+2882,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_190.png,healthy
+1513,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding/frame_21.png,healthy
+8998,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_15.png,COVID
+10155,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_219.png,COVID
+8029,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_124.png,COVID
+7379,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_70.png,COVID
+1061,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_133.png,bacterial pneumonia
+3411,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-2/frame_53.png,healthy
+13061,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_liftl_pneu_case3_clip4/frame_2.png,bacterial pneumonia
+12645,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_88.png,bacterial pneumonia
+10428,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Basal-pneumonia-RUQ_crop/frame_0.png,bacterial pneumonia
+4337,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_24.png,healthy
+5153,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_146.png,healthy
+11507,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_205.png,bacterial pneumonia
+1261,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_107.png,bacterial pneumonia
+5333,./processed_data/pocus_videos_to_images/convex/viral pneumonia/Vir_liftl_H1N1_case2_clip1/frame_31.png,viral pneumonia
+2124,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_96.png,healthy
+6702,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_290.png,COVID
+708,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_352.png,healthy
+2119,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_91.png,healthy
+476,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_120.png,healthy
+5787,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_11.png,COVID
+12949,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid2/frame_76.png,bacterial pneumonia
+5508,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_47.png,COVID
+4454,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_141.png,healthy
+10546,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_001/frame_1.png,bacterial pneumonia
+5958,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_45.png,COVID
+2864,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_172.png,healthy
+993,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_65.png,bacterial pneumonia
+11952,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_35.png,bacterial pneumonia
+10335,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_399.png,COVID
+10299,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_363.png,COVID
+11585,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_002/frame_60.png,bacterial pneumonia
+12088,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid1/frame_9.png,bacterial pneumonia
+13054,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_88.png,bacterial pneumonia
+5562,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_101.png,COVID
+3705,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_199.png,healthy
+8889,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_308.png,COVID
+2452,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_34.png,healthy
+73,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_41.png,healthy
+8971,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_390.png,COVID
+8005,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_100.png,COVID
+3833,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_125.png,healthy
+10943,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid3/frame_31.png,bacterial pneumonia
+2995,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_11.png,healthy
+971,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_43.png,bacterial pneumonia
+9248,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_129.png,COVID
+10663,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid2/frame_27.png,bacterial pneumonia
+10140,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_204.png,COVID
+8165,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image1/frame_100.png,COVID
+5614,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_153.png,COVID
+10302,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_366.png,COVID
+4010,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-3/frame_7.png,healthy
+8852,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_271.png,COVID
+9056,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_73.png,COVID
+12258,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid8/frame_87.png,bacterial pneumonia
+2366,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_003/frame_32.png,healthy
+12590,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_33.png,bacterial pneumonia
+5049,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_42.png,healthy
+12989,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_23.png,bacterial pneumonia
+8887,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_306.png,COVID
+3131,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_147.png,healthy
+921,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural/frame_70.png,bacterial pneumonia
+696,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_340.png,healthy
+683,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_327.png,healthy
+9030,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_47.png,COVID
+8528,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_350.png,COVID
+4862,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid3/frame_34.png,healthy
+11532,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_002/frame_7.png,bacterial pneumonia
+5888,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_112.png,COVID
+10264,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_328.png,COVID
+9533,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_80.png,COVID
+10423,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid4/frame_86.png,bacterial pneumonia
+4484,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_171.png,healthy
+12375,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_1009_vid1/frame_21.png,bacterial pneumonia
+12246,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid8/frame_75.png,bacterial pneumonia
+3698,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_192.png,healthy
+10266,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_330.png,COVID
+9536,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_83.png,COVID
+11333,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_31.png,bacterial pneumonia
+3080,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_96.png,healthy
+2791,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_99.png,healthy
+2609,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid2/frame_11.png,healthy
+6697,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_285.png,COVID
+9512,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_59.png,COVID
+10243,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_307.png,COVID
+5683,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_51.png,COVID
+5477,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_16.png,COVID
+7303,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid10/frame_135.png,COVID
+2677,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid2/frame_79.png,healthy
+6393,./processed_data/pocus_videos_to_images/convex/COVID/Cov-Atlas-suspectedCovid/frame_81.png,COVID
+1530,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding/frame_38.png,healthy
+10025,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_89.png,COVID
+9722,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_269.png,COVID
+1512,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding/frame_20.png,healthy
+1056,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_128.png,bacterial pneumonia
+4695,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_176.png,healthy
+4352,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_39.png,healthy
+427,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_71.png,healthy
+4246,./processed_data/pocus_videos_to_images/convex/healthy/Reg-NormalLungs/frame_64.png,healthy
+4501,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_188.png,healthy
+12630,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_73.png,bacterial pneumonia
+10067,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_131.png,COVID
+11412,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_110.png,bacterial pneumonia
+1743,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid2/frame_12.png,healthy
+2439,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_21.png,healthy
+2865,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_173.png,healthy
+5684,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_52.png,COVID
+5353,./processed_data/pocus_videos_to_images/convex/viral pneumonia/Vir_whitelung_h1n1/frame_15.png,viral pneumonia
+10261,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_325.png,COVID
+6104,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_191.png,COVID
+4702,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_183.png,healthy
+11070,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_006/frame_67.png,bacterial pneumonia
+12754,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_from_article_rippey/frame_16.png,bacterial pneumonia
+2531,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_113.png,healthy
+1090,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural2/frame_11.png,bacterial pneumonia
+8563,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_385.png,COVID
+11356,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_54.png,bacterial pneumonia
+2954,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid2/frame_62.png,healthy
+9494,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_41.png,COVID
+9197,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_78.png,COVID
+9378,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_117.png,COVID
+12075,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Pneumonia-LITFL-Ultrasound_crop/frame_23.png,bacterial pneumonia
+1408,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_103.png,bacterial pneumonia
+3495,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_81.png,healthy
+12209,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid8/frame_38.png,bacterial pneumonia
+5769,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_137.png,COVID
+573,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_217.png,healthy
+12128,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid1/frame_49.png,bacterial pneumonia
+7532,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_32.png,COVID
+10884,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid2/frame_64.png,bacterial pneumonia
+4092,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_001/frame_2.png,healthy
+10377,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid4/frame_40.png,bacterial pneumonia
+4679,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_160.png,healthy
+7375,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_66.png,COVID
+8881,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_300.png,COVID
+1722,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid1/frame_83.png,healthy
+1923,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_94.png,healthy
+7868,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_368.png,COVID
+3314,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_330.png,healthy
+12546,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_004/frame_20.png,bacterial pneumonia
+12573,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_16.png,bacterial pneumonia
+5224,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid5/frame_15.png,healthy
+1042,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_114.png,bacterial pneumonia
+4058,./processed_data/pocus_videos_to_images/convex/healthy/Reg_liftl_case3_clip2/frame_0.png,healthy
+10402,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid4/frame_65.png,bacterial pneumonia
+8994,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_11.png,COVID
+6444,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_32.png,COVID
+8,./processed_data//pocus_images//convex/healthy/Reg_Avi_Image009.jpg,healthy
+2020,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_191.png,healthy
+13056,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_90.png,bacterial pneumonia
+11805,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_5.png,bacterial pneumonia
+8279,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_101.png,COVID
+11043,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_006/frame_40.png,bacterial pneumonia
+3704,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_198.png,healthy
+7748,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_248.png,COVID
+4606,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_87.png,healthy
+13025,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_59.png,bacterial pneumonia
+8310,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_132.png,COVID
+1950,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_121.png,healthy
+3562,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_56.png,healthy
+4872,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid3/frame_44.png,healthy
+7889,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_389.png,COVID
+2974,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid2/frame_82.png,healthy
+8047,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_142.png,COVID
+799,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_443.png,healthy
+9806,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_44.png,COVID
+6427,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_15.png,COVID
+11697,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid1/frame_79.png,bacterial pneumonia
+5885,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_109.png,COVID
+5863,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_87.png,COVID
+8721,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_140.png,COVID
+12501,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid4/frame_54.png,bacterial pneumonia
+7332,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_23.png,COVID
+6145,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_232.png,COVID
+11237,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid2/frame_26.png,bacterial pneumonia
+2771,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_79.png,healthy
+5709,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_77.png,COVID
+4816,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_297.png,healthy
+11477,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_175.png,bacterial pneumonia
+6306,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_393.png,COVID
+9023,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_40.png,COVID
+11771,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid7/frame_62.png,bacterial pneumonia
+5589,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_128.png,COVID
+9186,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_67.png,COVID
+1178,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_24.png,bacterial pneumonia
+11430,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_128.png,bacterial pneumonia
+979,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_51.png,bacterial pneumonia
+4012,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-3/frame_9.png,healthy
+11898,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_liftl_pneu_case3_clip3/frame_6.png,bacterial pneumonia
+3015,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_31.png,healthy
+3079,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_95.png,healthy
+7985,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_80.png,COVID
+7884,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_384.png,COVID
+5478,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_17.png,COVID
+5118,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_111.png,healthy
+828,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_472.png,healthy
+12412,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_1009_vid1/frame_58.png,bacterial pneumonia
+11073,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_006/frame_70.png,bacterial pneumonia
+7940,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_35.png,COVID
+1669,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid1/frame_30.png,healthy
+2232,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181739_trimmed_crop/frame_2.png,healthy
+5544,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_83.png,COVID
+214,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_45.png,healthy
+724,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_368.png,healthy
+426,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_70.png,healthy
+7567,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_67.png,COVID
+11604,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_002/frame_79.png,bacterial pneumonia
+8778,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_197.png,COVID
+7745,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_245.png,COVID
+9774,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_12.png,COVID
+9681,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_228.png,COVID
+8951,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_370.png,COVID
+12280,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_18.png,bacterial pneumonia
+2271,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181739_trimmed_crop/frame_41.png,healthy
+10740,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid1/frame_12.png,bacterial pneumonia
+8294,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_116.png,COVID
+10172,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_236.png,COVID
+5050,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_43.png,healthy
+12548,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_004/frame_22.png,bacterial pneumonia
+7481,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_172.png,COVID
+796,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_440.png,healthy
+6735,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_323.png,COVID
+1697,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid1/frame_58.png,healthy
+5681,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_49.png,COVID
+9673,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_220.png,COVID
+465,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_109.png,healthy
+3599,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_93.png,healthy
+7588,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_88.png,COVID
+8839,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_258.png,COVID
+11341,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_39.png,bacterial pneumonia
+10298,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_362.png,COVID
+967,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_39.png,bacterial pneumonia
+8440,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_262.png,COVID
+6670,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_258.png,COVID
+251,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_82.png,healthy
+0,./processed_data//pocus_images//linear/COVID/Cov_unsmoothpleuralline_prelim_study_SSRN_paper6.png,COVID
+398,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_42.png,healthy
+11488,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_186.png,bacterial pneumonia
+4580,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_61.png,healthy
+7231,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid10/frame_63.png,COVID
+4256,./processed_data/pocus_videos_to_images/convex/healthy/Reg-NormalLungs/frame_74.png,healthy
+10970,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid3/frame_58.png,bacterial pneumonia
+4963,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_002/frame_20.png,healthy
+12914,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid2/frame_41.png,bacterial pneumonia
+9050,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_67.png,COVID
+4365,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_52.png,healthy
+180,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_11.png,healthy
+8897,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_316.png,COVID
+2252,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181739_trimmed_crop/frame_22.png,healthy
+4100,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_001/frame_10.png,healthy
+12569,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_12.png,bacterial pneumonia
+12881,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid2/frame_8.png,bacterial pneumonia
+2543,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_125.png,healthy
+1768,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid2/frame_37.png,healthy
+10648,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid2/frame_12.png,bacterial pneumonia
+7038,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_likebutterfly_mov5/frame_8.png,COVID
+5465,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_4.png,COVID
+7448,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_139.png,COVID
+1022,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_94.png,bacterial pneumonia
+6073,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_160.png,COVID
+3325,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_341.png,healthy
+3776,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_68.png,healthy
+720,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_364.png,healthy
+2512,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_94.png,healthy
+9864,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_102.png,COVID
+102,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_70.png,healthy
+429,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_73.png,healthy
+6105,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_192.png,COVID
+10290,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_354.png,COVID
+2688,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid2/frame_90.png,healthy
+12981,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_15.png,bacterial pneumonia
+9952,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_16.png,COVID
+7794,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_294.png,COVID
+3872,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_164.png,healthy
+10734,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid1/frame_6.png,bacterial pneumonia
+4219,./processed_data/pocus_videos_to_images/convex/healthy/Reg-NormalLungs/frame_37.png,healthy
+11355,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_53.png,bacterial pneumonia
+3546,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_40.png,healthy
+833,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_477.png,healthy
+1372,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_67.png,bacterial pneumonia
+9790,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_28.png,COVID
+7553,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_53.png,COVID
+12152,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid1/frame_73.png,bacterial pneumonia
+2527,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_109.png,healthy
+12005,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_88.png,bacterial pneumonia
+1617,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid1/frame_69.png,healthy
+9128,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_9.png,COVID
+12681,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_005/frame_34.png,bacterial pneumonia
+2619,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid2/frame_21.png,healthy
+3706,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_200.png,healthy
+4192,./processed_data/pocus_videos_to_images/convex/healthy/Reg-NormalLungs/frame_10.png,healthy
+6174,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_261.png,COVID
+4220,./processed_data/pocus_videos_to_images/convex/healthy/Reg-NormalLungs/frame_38.png,healthy
+10952,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid3/frame_40.png,bacterial pneumonia
+5875,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_99.png,COVID
+2189,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_161.png,healthy
+764,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_408.png,healthy
+3488,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_74.png,healthy
+11892,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_liftl_pneu_case3_clip3/frame_0.png,bacterial pneumonia
+2407,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_003/frame_73.png,healthy
+7590,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_90.png,COVID
+6202,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_289.png,COVID
+1057,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_129.png,bacterial pneumonia
+127,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_95.png,healthy
+542,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_186.png,healthy
+5412,./processed_data/pocus_videos_to_images/convex/viral pneumonia/Vir_whitelung_h1n1/frame_74.png,viral pneumonia
+8456,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_278.png,COVID
+4374,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_61.png,healthy
+6118,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_205.png,COVID
+8398,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_220.png,COVID
+1766,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid2/frame_35.png,healthy
+10770,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid1/frame_42.png,bacterial pneumonia
+4953,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_002/frame_10.png,healthy
+2054,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_26.png,healthy
+868,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural/frame_17.png,bacterial pneumonia
+5292,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid5/frame_83.png,healthy
+3355,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_371.png,healthy
+1783,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid2/frame_52.png,healthy
+9698,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_245.png,COVID
+376,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_20.png,healthy
+6927,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_79.png,COVID
+8344,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_166.png,COVID
+3746,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_38.png,healthy
+6682,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_270.png,COVID
+88,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_56.png,healthy
+3724,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_16.png,healthy
+11177,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid1/frame_82.png,bacterial pneumonia
+2615,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid2/frame_17.png,healthy
+4341,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_28.png,healthy
+4420,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_107.png,healthy
+9702,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_249.png,COVID
+761,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_405.png,healthy
+2390,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_003/frame_56.png,healthy
+4209,./processed_data/pocus_videos_to_images/convex/healthy/Reg-NormalLungs/frame_27.png,healthy
+275,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_106.png,healthy
+8701,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_120.png,COVID
+10708,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid2/frame_72.png,bacterial pneumonia
+8625,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_44.png,COVID
+11320,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_18.png,bacterial pneumonia
+9088,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_105.png,COVID
+10821,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid2/frame_1.png,bacterial pneumonia
+11166,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid1/frame_71.png,bacterial pneumonia
+3819,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_111.png,healthy
+11954,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_37.png,bacterial pneumonia
+9941,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_5.png,COVID
+6177,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_264.png,COVID
+8020,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_115.png,COVID
+5282,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid5/frame_73.png,healthy
+7070,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_likebutterfly_mov5/frame_40.png,COVID
+8188,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_10.png,COVID
+217,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_48.png,healthy
+1146,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural2/frame_67.png,bacterial pneumonia
+6237,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_324.png,COVID
+9121,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_2.png,COVID
+2085,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_57.png,healthy
+2069,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_41.png,healthy
+12620,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_63.png,bacterial pneumonia
+3379,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-2/frame_21.png,healthy
+12782,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_003/frame_2.png,bacterial pneumonia
+3919,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid6/frame_9.png,healthy
+5174,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_167.png,healthy
+12251,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid8/frame_80.png,bacterial pneumonia
+6760,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_348.png,COVID
+12940,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid2/frame_67.png,bacterial pneumonia
+12631,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set3_vid1/frame_74.png,bacterial pneumonia
+8280,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_102.png,COVID
+11537,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_002/frame_12.png,bacterial pneumonia
+9270,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_9.png,COVID
+8568,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_390.png,COVID
+2894,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid2/frame_2.png,healthy
+9696,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_243.png,COVID
+3424,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_10.png,healthy
+10986,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid3/frame_74.png,bacterial pneumonia
+4026,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-3/frame_23.png,healthy
+6061,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_148.png,COVID
+8439,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_261.png,COVID
+2754,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_62.png,healthy
+8810,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_229.png,COVID
+12936,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid2/frame_63.png,bacterial pneumonia
+7720,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_220.png,COVID
+11514,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_212.png,bacterial pneumonia
+135,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_103.png,healthy
+8719,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_138.png,COVID
+3011,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_27.png,healthy
+958,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_30.png,bacterial pneumonia
+6849,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_1.png,COVID
+3251,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_267.png,healthy
+3898,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_190.png,healthy
+2742,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_50.png,healthy
+4165,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_001/frame_75.png,healthy
+914,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural/frame_63.png,bacterial pneumonia
+2201,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_173.png,healthy
+9317,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_56.png,COVID
+6109,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_196.png,COVID
+1934,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_105.png,healthy
+11988,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_71.png,bacterial pneumonia
+5992,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_79.png,COVID
+11880,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_80.png,bacterial pneumonia
+11366,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_64.png,bacterial pneumonia
+11858,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid2/frame_58.png,bacterial pneumonia
+3299,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_315.png,healthy
+119,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_87.png,healthy
+1769,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid2/frame_38.png,healthy
+1369,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_64.png,bacterial pneumonia
+7298,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid10/frame_130.png,COVID
+4605,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_86.png,healthy
+7463,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_154.png,COVID
+6069,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_156.png,COVID
+2522,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_104.png,healthy
+7722,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_222.png,COVID
+5389,./processed_data/pocus_videos_to_images/convex/viral pneumonia/Vir_whitelung_h1n1/frame_51.png,viral pneumonia
+3387,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-2/frame_29.png,healthy
+11518,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_216.png,bacterial pneumonia
+7514,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_14.png,COVID
+10938,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid3/frame_26.png,bacterial pneumonia
+9826,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image3/frame_64.png,COVID
+1323,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_18.png,bacterial pneumonia
+4077,./processed_data/pocus_videos_to_images/convex/healthy/Reg_liftl_case3_clip2/frame_19.png,healthy
+2656,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set3_vid2/frame_58.png,healthy
+9063,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_80.png,COVID
+4313,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_0.png,healthy
+4630,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_111.png,healthy
+3573,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_67.png,healthy
+1520,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding/frame_28.png,healthy
+12301,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_39.png,bacterial pneumonia
+9992,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_56.png,COVID
+3643,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_137.png,healthy
+8933,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_352.png,COVID
+11168,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid1/frame_73.png,bacterial pneumonia
+11427,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_125.png,bacterial pneumonia
+2996,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_12.png,healthy
+4896,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid3/frame_68.png,healthy
+5156,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_149.png,healthy
+10506,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid1/frame_51.png,bacterial pneumonia
+7792,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_292.png,COVID
+11257,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid2/frame_46.png,bacterial pneumonia
+12728,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_005/frame_81.png,bacterial pneumonia
+11155,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid1/frame_60.png,bacterial pneumonia
+7732,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_232.png,COVID
+5816,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_image4/frame_40.png,COVID
+8816,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_235.png,COVID
+210,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_41.png,healthy
+245,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_18122_crop/frame_76.png,healthy
+8119,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image1/frame_54.png,COVID
+11631,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid1/frame_13.png,bacterial pneumonia
+7402,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_93.png,COVID
+9026,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid14/frame_43.png,COVID
+952,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_24.png,bacterial pneumonia
+7707,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_207.png,COVID
+10753,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid1/frame_25.png,bacterial pneumonia
+6345,./processed_data/pocus_videos_to_images/convex/COVID/Cov-Atlas-suspectedCovid/frame_33.png,COVID
+6053,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_140.png,COVID
+10149,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_213.png,COVID
+12082,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid1/frame_3.png,bacterial pneumonia
+9211,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_92.png,COVID
+1018,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_90.png,bacterial pneumonia
+12526,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_004/frame_0.png,bacterial pneumonia
+2818,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_126.png,healthy
+8359,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_181.png,COVID
+10548,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_001/frame_3.png,bacterial pneumonia
+2929,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid2/frame_37.png,healthy
+5071,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_64.png,healthy
+1482,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_liftl_H1N1_case2_clip2/frame_26.png,bacterial pneumonia
+7600,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_100.png,COVID
+1255,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_101.png,bacterial pneumonia
+12701,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_005/frame_54.png,bacterial pneumonia
+10909,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid2/frame_89.png,bacterial pneumonia
+6455,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_43.png,COVID
+3621,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_004/frame_115.png,healthy
+12314,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_52.png,bacterial pneumonia
+12288,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_26.png,bacterial pneumonia
+12718,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_005/frame_71.png,bacterial pneumonia
+3909,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_201.png,healthy
+8531,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_353.png,COVID
+6461,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_49.png,COVID
+6923,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_75.png,COVID
+7046,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_likebutterfly_mov5/frame_16.png,COVID
+8846,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_265.png,COVID
+7187,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid10/frame_19.png,COVID
+2301,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181739_trimmed_crop/frame_71.png,healthy
+5572,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_111.png,COVID
+13022,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_56.png,bacterial pneumonia
+2392,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_003/frame_58.png,healthy
+12031,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_basalpneumonia_liftle_case1/frame_21.png,bacterial pneumonia
+10888,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid2/frame_68.png,bacterial pneumonia
+8683,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_102.png,COVID
+7396,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_87.png,COVID
+13044,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_78.png,bacterial pneumonia
+10545,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_001/frame_0.png,bacterial pneumonia
+4462,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_149.png,healthy
+1396,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Pneu_prospective_file3/frame_91.png,bacterial pneumonia
+8204,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_26.png,COVID
+10295,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_359.png,COVID
+7874,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_374.png,COVID
+6831,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_419.png,COVID
+10270,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_334.png,COVID
+4643,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_124.png,healthy
+8922,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_341.png,COVID
+12658,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_005/frame_11.png,bacterial pneumonia
+1880,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image008/frame_51.png,healthy
+7113,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_likebutterfly_mov5/frame_83.png,COVID
+7975,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid12/frame_70.png,COVID
+2596,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_178.png,healthy
+2348,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_003/frame_14.png,healthy
+6872,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_24.png,COVID
+414,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_58.png,healthy
+2858,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid1/frame_166.png,healthy
+113,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_81.png,healthy
+11007,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_006/frame_4.png,bacterial pneumonia
+7712,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_212.png,COVID
+4030,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-3/frame_27.png,healthy
+1118,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural2/frame_39.png,bacterial pneumonia
+4738,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_219.png,healthy
+10827,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid2/frame_7.png,bacterial pneumonia
+12505,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid4/frame_58.png,bacterial pneumonia
+8956,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_375.png,COVID
+1282,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file1/frame_128.png,bacterial pneumonia
+6357,./processed_data/pocus_videos_to_images/convex/COVID/Cov-Atlas-suspectedCovid/frame_45.png,COVID
+4046,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-3/frame_43.png,healthy
+4098,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_001/frame_8.png,healthy
+4074,./processed_data/pocus_videos_to_images/convex/healthy/Reg_liftl_case3_clip2/frame_16.png,healthy
+8589,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_8.png,COVID
+61,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_29.png,healthy
+59,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_27.png,healthy
+736,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_380.png,healthy
+4739,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_220.png,healthy
+12724,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_005/frame_77.png,bacterial pneumonia
+12286,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid3/frame_24.png,bacterial pneumonia
+872,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural/frame_21.png,bacterial pneumonia
+7779,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_279.png,COVID
+6152,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_239.png,COVID
+12493,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid4/frame_46.png,bacterial pneumonia
+9632,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_179.png,COVID
+5993,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_80.png,COVID
+6258,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_345.png,COVID
+4083,./processed_data/pocus_videos_to_images/convex/healthy/Reg_liftl_case3_clip2/frame_25.png,healthy
+385,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_29.png,healthy
+9964,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_28.png,COVID
+6143,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_230.png,COVID
+6494,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_82.png,COVID
+12976,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set1_vid2/frame_10.png,bacterial pneumonia
+9260,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_141.png,COVID
+8450,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_272.png,COVID
+7624,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_124.png,COVID
+9365,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_104.png,COVID
+8799,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_218.png,COVID
+10801,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid1/frame_73.png,bacterial pneumonia
+8725,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_144.png,COVID
+1511,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding/frame_19.png,healthy
+2337,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_003/frame_3.png,healthy
+11695,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid1/frame_77.png,bacterial pneumonia
+9353,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_92.png,COVID
+795,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_439.png,healthy
+2122,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_94.png,healthy
+4663,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_144.png,healthy
+11511,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_209.png,bacterial pneumonia
+9688,./processed_data/pocus_videos_to_images/convex/COVID/Cov_recommendations_lightbeam_mov6/frame_235.png,COVID
+7181,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid10/frame_13.png,COVID
+1031,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Vir_prospective_file2/frame_103.png,bacterial pneumonia
+1688,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid1/frame_49.png,healthy
+3873,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image002/frame_165.png,healthy
+5337,./processed_data/pocus_videos_to_images/convex/viral pneumonia/Vir_liftl_H1N1_case2_clip1/frame_35.png,viral pneumonia
+2036,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_8.png,healthy
+7766,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_266.png,COVID
+63,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_31.png,healthy
+3369,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding-2/frame_11.png,healthy
+9329,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid5/frame_68.png,COVID
+12167,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set5_vid1/frame_88.png,bacterial pneumonia
+5559,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid13/frame_98.png,COVID
+10289,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_353.png,COVID
+11645,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set2_vid1/frame_27.png,bacterial pneumonia
+6947,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_99.png,COVID
+8117,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image1/frame_52.png,COVID
+4118,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Video_001/frame_28.png,healthy
+5013,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_6.png,healthy
+7859,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_359.png,COVID
+4561,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182340_crop/frame_42.png,healthy
+8724,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v2/frame_143.png,COVID
+11212,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set4_vid2/frame_1.png,bacterial pneumonia
+1516,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding/frame_24.png,healthy
+4502,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_182106_crop/frame_189.png,healthy
+9225,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid11/frame_106.png,COVID
+12702,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Avi_Video_005/frame_55.png,bacterial pneumonia
+7407,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image2/frame_98.png,COVID
+2157,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image004/frame_129.png,healthy
+6790,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_378.png,COVID
+10438,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_Basal-pneumonia-RUQ_crop/frame_10.png,bacterial pneumonia
+410,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181206_crop/frame_54.png,healthy
+2435,./processed_data/pocus_videos_to_images/convex/healthy/Reg_recommendations_alines_mov1/frame_17.png,healthy
+3105,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Image_181602_trimmed_crop/frame_121.png,healthy
+5964,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v3/frame_51.png,COVID
+1498,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_lung-sliding/frame_6.png,healthy
+6454,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_42.png,COVID
+107,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_75.png,healthy
+5768,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid1/frame_136.png,COVID
+3448,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_34.png,healthy
+7017,./processed_data/pocus_videos_to_images/convex/COVID/Cov_combatting_Image5/frame_169.png,COVID
+99,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_67.png,healthy
+1793,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_0409_set5_vid2/frame_62.png,healthy
+11407,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/pneu-radiopaeda/frame_105.png,bacterial pneumonia
+6554,./processed_data/pocus_videos_to_images/convex/COVID/Cov_denault_proposedUS_vid2/frame_142.png,COVID
+1111,./processed_data/pocus_videos_to_images/linear/bacterial pneumonia/Cov-Atlas-pleural2/frame_32.png,bacterial pneumonia
+11929,./processed_data/pocus_videos_to_images/convex/bacterial pneumonia/Pneu_northumbria_0409_set6_vid5/frame_12.png,bacterial pneumonia
+5173,./processed_data/pocus_videos_to_images/convex/healthy/Reg_Avi_Image003/frame_166.png,healthy
+7630,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v4/frame_130.png,COVID
+3429,./processed_data/pocus_videos_to_images/convex/healthy/Reg_northumbria_1009_vid7/frame_15.png,healthy
+8507,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v1/frame_329.png,COVID
+10089,./processed_data/pocus_videos_to_images/convex/COVID/Cov_convex_volpecelli_sonographic_v5/frame_153.png,COVID
+103,./processed_data/pocus_videos_to_images/linear/healthy/Reg_Image_181432_crop/frame_71.png,healthy
