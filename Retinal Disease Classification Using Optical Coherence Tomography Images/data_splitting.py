@@ -38,6 +38,7 @@ test_data, valid_data = train_test_split(test_data, test_size=0.5, random_state=
 train_data.to_csv('./csv_files/data_train.csv', index=False)
 valid_data.to_csv('./csv_files/data_valid.csv', index=False)
 test_data.to_csv('./csv_files/data_test.csv', index=False)
+remaining_data.to_csv('./csv_files/test_on_remaining_data.csv', index=False)
 
 print("Data split and saved successfully!")
 #%%
